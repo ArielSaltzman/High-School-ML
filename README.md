@@ -22,3 +22,8 @@ The repository includes the following files:
 - `/docs`: Documentation and explanations related to the analysis (optional).
 - `README.md`: The current file providing an overview of the repository.
 
+## Contact
+For any questions or clarifications, feel free to reach out:
+
+- **Email**: [x0542960040@gmail.com](mailto:x0542960040@gmail.com)
+- **GitHub**: [Ariel Saltzman (ChipsTaim)](https://github.com/ChipsTaim)
