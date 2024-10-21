@@ -15,21 +15,6 @@ The repository includes the following files:
 ### Review the Notebooks:
 - The weather analysis starts in **OldWeather_Project.ipynb** and continues in **Weather_Project.ipynb**.
 
-### Instructions:
-- To run the notebooks locally, follow these steps:
-  1. Clone the repository:
-     ```bash
-     git clone https://github.com/your-username/weather-analysis.git
-     ```
-  2. Navigate to the project folder:
-     ```bash
-     cd weather-analysis
-     ```
-  3. Open the notebooks in Jupyter:
-     ```bash
-     jupyter notebook OldWeather_Project.ipynb
-     jupyter notebook Weather_Project.ipynb
-     ```
 
 ## Structure
 - `/notebooks`: Contains the two main Jupyter notebooks for the project.
