@@ -22,17 +22,3 @@ The repository includes the following files:
 - `/docs`: Documentation and explanations related to the analysis (optional).
 - `README.md`: The current file providing an overview of the repository.
 
-## Requirements
-
-- Python 3.x
-- Jupyter Notebook
-- The following Python libraries:
-  - pandas
-  - matplotlib
-  - numpy
-  - seaborn
-  - scikit-learn
-
-Install the required libraries using the following command:
-```bash
-pip install -r requirements.txt
