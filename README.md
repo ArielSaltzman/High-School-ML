@@ -15,7 +15,7 @@ The repository includes the following files:
 
 
 ## Structure
-- `/docs`: Contains the projects.
+- `/projects`: Contains the projects.
 - `README.md`: The current file providing an overview of the repository.
 
 ## Contact
